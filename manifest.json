@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-idea-board",
+  "name": "Idea Board",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Markdown list-backed Idea & Storyboard plugin with granularity filtering.",
+  "author": "Custom (based on obsidian-kanban by mgmeyers)",
+  "isDesktopOnly": false
+}
